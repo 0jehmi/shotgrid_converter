@@ -24,7 +24,8 @@ SCRIPT_KEY = ""
 # Examples
 
 <img width="616" alt="sg_converter_1" src="https://github.com/0jehmi/files_renamer/assets/122579358/54656a0f-8210-4f28-8f3d-b7ec77632ed3">
->구동예시
+>구동예시  
+
 
 <img width="225" alt="sg_converter_2" src="https://github.com/0jehmi/files_renamer/assets/122579358/e97bf86b-0f13-487d-b808-0422986a90ca">
 >convertin & Uploading 중 messagebox  
@@ -34,5 +35,7 @@ SCRIPT_KEY = ""
 
 <img width="1394" alt="sg_converter_4" src="https://github.com/0jehmi/files_renamer/assets/122579358/611903ba-58a8-44f6-8352-5911ae3f3c1c">
 >Result
+
+
 - ShotGrid 홈페이지의 tasks-versions필드에 upload된 mp4
 
