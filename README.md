@@ -31,6 +31,8 @@ SCRIPT_KEY = ""
 <img width="225" alt="sg_converter_2" src="https://github.com/0jehmi/files_renamer/assets/122579358/e97bf86b-0f13-487d-b808-0422986a90ca">
 >convertin & Uploading 중 messagebox  
 
+<br>
+
 <img width="133" alt="sg_converter_3" src="https://github.com/0jehmi/files_renamer/assets/122579358/a453f42c-c518-4338-a2f0-e7ef2d732ab4">
 >완료 후 messagebox
 
